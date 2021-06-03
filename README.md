@@ -10,6 +10,8 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/whateverlcs/Ecoleta?color=green">
   
   <img alt="GitHub Size Repository" src="https://img.shields.io/github/repo-size/whateverlcs/Ecoleta?color=green">
+    
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/whateverlcs/Ecoleta?color=green">
   
   <img alt="GitHub Stars Repository" src="https://img.shields.io/github/stars/whateverlcs/Ecoleta?style=social">
 </p>
