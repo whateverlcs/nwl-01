@@ -39,7 +39,7 @@ A aplicação consiste em diminuir a distância entre Empresas e organizações 
 ![Register-3](https://github.com/whateverlcs/Ecoleta/blob/master/assets/register-3.png)
 
 # ⚒ Tecnologias utilizadas
-## Back end
+## Back-end
 - NodeJS
 - Typescript
 - Multer
@@ -48,7 +48,7 @@ A aplicação consiste em diminuir a distância entre Empresas e organizações 
 - Express
 - Knex
 - Sqlite
-## Front end
+## Front-end
 - HTML / CSS / JS / Typescript
 - ReactJS
 - React Native
